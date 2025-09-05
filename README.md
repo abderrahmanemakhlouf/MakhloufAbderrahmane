@@ -1,4 +1,4 @@
-<!-- Profile Header -->
+edit the image in this version   "<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Abderrahmane</h1>
 <h3 align="center">Aspiring Computer Science student | IT Enthusiast | Scholarship Seeker</h3>
 
@@ -62,3 +62,4 @@
 ---
 
 ⭐️ From [Abderrahmane](https://github.com/yourgithub)  
+"
