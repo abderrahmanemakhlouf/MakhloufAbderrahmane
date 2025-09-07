@@ -8,7 +8,6 @@
 
 ## 🚀 About Me
 - 🎓 High school graduate with strong interest in **Computer Science**  
-- 📚 Currently studying **Computer Science** online (University of the People)  
 - 🌍 Preparing applications for **international scholarships** in CS & IT  
 - 💻 Passionate about **networking and Cybersecurity**  
 - 🌱 Actively learning **Python, Networking (CCNA), and ComptIA A+**  
