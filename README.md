@@ -45,7 +45,7 @@
 ### ✅ Introduction to Cybersecurity  
 - **Provider:** Cisco Networking Academy  
 - **Focus:** Cybersecurity fundamentals, online threats, cryptography, and security best practices  
-- [🔗 Verify Certificate](https://www.netacad.com/certificates?issuanceId=94025132-2230-43e9-9dfd-0ea8b7d8aa51)  
+- [🔗 Verify Certificate](https://www.credly.com/badges/aeadd8a3-6966-4bae-9915-256db4e70629)  
 
 ---
 
