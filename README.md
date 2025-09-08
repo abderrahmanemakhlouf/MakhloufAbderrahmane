@@ -57,8 +57,9 @@
 ---
 
 ## 🌟 Featured Projects
-- 🔹 [Small Office Network Simulation](https://github.com/abderrahmanemakhlouf/todo-list-python) — Designed & configured routers, switches, VLANs, DHCP, DNS.  
-- 🔹 [Portfolio Website](https://github.com/abderrahmanemakhlouf) — Personal React site with CV, projects and contact.  
+- 🔹 [To-Do List App](https://github.com/abderrahmanemakhlouf/todo-list-python) — A simple **Python-based To-Do List application** that lets users add, manage, and track tasks efficiently.  
+- 🔹 [Portfolio Website](https://github.com/abderrahmanemakhlouf) — Personal **portfolio site** showcasing skills, certifications, and projects.  
+  
 
 
 *(Click the project titles above once I upload repos!)*  
