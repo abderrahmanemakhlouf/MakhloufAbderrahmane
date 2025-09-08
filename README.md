@@ -60,10 +60,6 @@
 - 🔹 [To-Do List App](https://github.com/abderrahmanemakhlouf/todo-list-python) — A simple **Python-based To-Do List application** that lets users add, manage, and track tasks efficiently.  
 - 🔹 [Portfolio Website](https://github.com/abderrahmanemakhlouf) — Personal **portfolio site** showcasing skills, certifications, and projects.  
   
-
-
-*(Click the project titles above once I upload repos!)*  
-
 ---
 
 ## 🎯 Goals for 2025
