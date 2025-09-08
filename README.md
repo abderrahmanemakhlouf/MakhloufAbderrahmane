@@ -1,4 +1,3 @@
-<!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Abderrahmane</h1>
 <h3 align="center">🎯 Future Computer Science Student | 🎓 High School Graduate | 💻 Passionate about Technology and IT
 </h3>
@@ -57,9 +56,10 @@
 
 ---
 
-## 🖥️ Featured Projects
-- 🔹 [Small Office Network Simulation](#) – Designed & configured routers, switches, VLANs, DHCP, DNS   
-- 🔹 [Portofolio Website](#) – Personal website includes some informations  
+## 🌟 Featured Projects
+- 🔹 [Small Office Network Simulation](https://github.com/abderrahmanemakhlouf/todo-list-python) — Designed & configured routers, switches, VLANs, DHCP, DNS.  
+- 🔹 [Portfolio Website](https://github.com/abderrahmanemakhlouf) — Personal React site with CV, projects and contact.  
+
 
 *(Click the project titles above once I upload repos!)*  
 
