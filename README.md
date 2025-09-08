@@ -1,6 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Abderrahmane</h1>
-<h3 align="center">Aspiring Computer Science student | IT Enthusiast | Scholarship Seeker</h3>
+<h3 align="center">🎯 Future Computer Science Student | 🎓 High School Graduate | 💻 Passionate about Technology and IT
+</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -10,7 +11,7 @@
 - 🎓 High school graduate with strong interest in **Computer Science**  
 - 🌍 Preparing applications for **international scholarships** in CS & IT  
 - 💻 Passionate about **networking and Cybersecurity**  
-- 🌱 Actively learning **Python, Networking (CCNA), and ComptIA A+**  
+- 🌱 Actively learning **Python, Web Development, and Networking**  
 
 ---
 
@@ -65,20 +66,20 @@
 ---
 
 ## 🎯 Goals for 2025
-- 🎓 Earn **CCNA and ComptIA A+ Certifications**  
+- 🎓 Earn **Learn Python and Web Development**  
 - 💼 Build a strong **portfolio of IT/CS projects**  
 - 🌍 Win a **scholarship to study Computer Science abroad**  
-- 💡 Contribute to **open-source projects** in networking & Cybersecurity  
+- 💡 Contribute to **open-source projects** in Web Development  
 
 ---
 
 ## 📬 Connect With Me
 <p>
-<a href="mailto:yourname@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="learncrave11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://linkedin.com/in/yourlinkedin"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+<a href="https://abderrahmanemakhlouf.github.io/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
 </p>
 
 ---
 
-⭐️ From [Abderrahmane](https://github.com/yourgithub)  
+⭐️ From [Abderrahmane](https://github.com/abderrahmanemakhlouf)  
