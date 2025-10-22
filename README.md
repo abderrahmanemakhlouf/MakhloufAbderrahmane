@@ -1,82 +1,24 @@
-<h1 align="center">Hi 👋, I'm Abderrahmane</h1>
-<h3 align="center">🎯 Future Computer Science Student | 🎓 High School Graduate | 💻 Passionate about Technology and IT
-</h3>
+# 💫 About Me:
+🎓 High-achieving student awarded for academic excellence, passionate about technology and innovation.<br>💻 Developing IT skills in Hardware and Software Support through hands-on learning and certifications like Google IT Support, Google Networking.<br>🎯 Aspiring to study Computer Science via scholarship and contribute to National digital transformation through practical and ethical technology solutions.
 
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abderrahmane-makhlouf) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:contact@abderrahmanemakhlouf.com) 
 
-## 🚀 About Me
-- 🎓 High school graduate with strong interest in **Computer Science**  
-- 🌍 Preparing applications for **international scholarships** in CS & IT  
-- 💻 Passionate about **networking and Cybersecurity**  
-- 🌱 Actively learning **Python, Web Development, and Networking**  
+## Projects
+💼 You can explore my practical projects in the repositories below.
 
----
+# 💻 Tech Stack:
+![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AbderrahmaneMakhlouf&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AbderrahmaneMakhlouf&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AbderrahmaneMakhlouf&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🛠️ Skills & Tools
-<p>
-<img src="https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-<img src="https://img.shields.io/badge/-Hardware-FF6F00?style=for-the-badge&logo=serverfault&logoColor=white" />
-<img src="https://img.shields.io/badge/-Software-4CAF50?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AbderrahmaneMakhlouf&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📜 Certifications  
-
-### ✅ Technical Support Fundamentals  
-- **Provider:** Google (Coursera)  
-- **Focus:** Basics of IT support, troubleshooting, customer service, operating systems  
-- [🔗 Verify Certificate](https://coursera.org/verify/6AQB51OE0FOD)  
-
----
-
-### ✅ The Bits and Bytes of Computer Networking  
-- **Provider:** Google (Coursera)  
-- **Focus:** Networking concepts, TCP/IP, DNS, DHCP, routing, and troubleshooting  
-- [🔗 Verify Certificate](https://coursera.org/verify/OOKQ9PDO293N)  
-
----
-
-### ✅ Introduction to Cybersecurity  
-- **Provider:** Cisco Networking Academy  
-- **Focus:** Cybersecurity fundamentals, online threats, cryptography, and security best practices  
-- [🔗 Verify Certificate](https://www.credly.com/badges/aeadd8a3-6966-4bae-9915-256db4e70629)  
-
----
-
-### ✅ Artificial Intelligence Fundamentals  
-- **Provider:** IBM SkillsBuild  
-- **Focus:** Core AI concepts, machine learning basics, and ethical implications of AI  
-- [🔗 Verify Certificate](https://www.credly.com/badges/8c37d255-94b1-468f-b72d-5a7063fdef2d)  
- 
-
----
-
-## 🌟 Featured Projects
-- 🔹 [To-Do List App](https://github.com/abderrahmanemakhlouf/todo-list-python) — A simple **Python-based To-Do List application** that lets users add, manage, and track tasks efficiently.  
-- 🔹 [Portfolio Website](https://github.com/abderrahmanemakhlouf) — Personal **portfolio site** showcasing skills, certifications, and projects.  
-  
----
-
-## 🎯 Goals for 2025
-- 🎓 Earn **Learn Python and Web Development**  
-- 💼 Build a strong **portfolio of IT/CS projects**  
-- 🌍 Win a **scholarship to study Computer Science abroad**  
-- 💡 Contribute to **open-source projects** in Web Development  
-
----
-
-## 📬 Connect With Me
-<p>
-<a href="learncrave11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/abderrahmane-makhlouf/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://abderrahmanemakhlouf.github.io/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
-
----
-
-⭐️ From [Abderrahmane](https://github.com/abderrahmanemakhlouf)  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
