@@ -1,7 +1,7 @@
 # 💫 About Me
-🎓 I'm **Abderrahmane Makhlouf**, an IT student at the **University of the People**, passionate about technology and digital innovation.  
+🎓 High-achieving student awarded for academic excellence, passionate about technology and innovation.  
 
-💻 Developing strong skills in **hardware & software support**, **networking**, and **cybersecurity** through hands-on learning and professional certifications such as **Google IT Support** and **Google Networking**. 
+💻 Developing strong skills in **hardware & software support** and **networking**, through hands-on learning and professional certifications such as **Google IT Support** and **Google Networking**. 
 
 🎯 Aspiring to pursue a **Bachelor’s in Computer Science via scholarship**, and contribute to **national digital transformation** through practical, ethical, and forward-thinking IT solutions.  
 
