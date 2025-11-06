@@ -9,7 +9,7 @@
 - 💼 You can explore my practical projects in the repositories below.
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/jigar-sable/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abderrahmane-makhlouf/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:contact@abderrahmanemakhlouf.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a
 
 <h3 align="left">🚀 Tech Stack:</h3>
