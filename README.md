@@ -29,7 +29,7 @@
 <img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div>
 
-<h3 align="left">🛠️ Tools & Remote Support:</h3>
+<h3 align="left">🛠️ Tools & Technologies:</h3>
 <div align="left">
 <img alt="TeamViewer" src="https://img.shields.io/badge/TeamViewer-0E8EE9?style=for-the-badge&logo=teamviewer&logoColor=white"/>
 <img alt="AnyDesk" src="https://img.shields.io/badge/AnyDesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white"/>
