@@ -7,14 +7,13 @@
 - ⭐ Developing strong skills in **hardware & software support**
 - 🎯 Aspiring to pursue a **Bachelor’s degree in Computer Science**
 - 💼 You can explore my practical projects in the repositories below.
+
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/abderrahmane-makhlouf/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
  <a href="mailto:contact@abderrahmanemakhlouf.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=mail.ru&logoColor=white"/>
 </a>
-<br/>
-
 <div align="left">
 
 <h3 align="left">💻 IT and Operating Systems:</h3>
