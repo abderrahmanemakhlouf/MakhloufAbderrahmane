@@ -15,14 +15,10 @@
 
 <div align="left">
 
-<h3 align="left">💻 Core IT Skills:</h3>
+<h3 align="left">💻 IT Skills and Operating Systems:</h3>
 <div align="left">
 <img alt="Hardware" src="https://img.shields.io/badge/Hardware-555555?style=for-the-badge&logo=computer&logoColor=white"/>
 <img alt="Software" src="https://img.shields.io/badge/Software-4285F4?style=for-the-badge&logo=windows&logoColor=white"/>
-</div>
-
-<h3 align="left">🖥️ Operating Systems:</h3>
-<div align="left">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
