@@ -10,8 +10,10 @@
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
   <a href="https://www.linkedin.com/in/abderrahmane-makhlouf/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:contact@abderrahmanemakhlouf.com"><img alt="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a
-<br>
+ <a href="mailto:contact@abderrahmanemakhlouf.com">
+  <img alt="Email" src="https://img.shields.io/badge/Email-0072C6?style=for-the-badge&logo=mail.ru&logoColor=white"/>
+</a>
+<br/>
 
 <div align="left">
 
@@ -25,8 +27,7 @@
 
 <h3 align="left">🌐 Networking:</h3>
 <div align="left">
-<img alt="Cisco" src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-<img alt="Packet Tracer" src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+<img alt="Cisco Packet Tracer" src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 </div>
 
 <h3 align="left">🛠️ Tools & Remote Support:</h3>
@@ -58,14 +59,17 @@
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=abderrahmanemakhlouf&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abderrahmanemakhlouf&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+    </td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abderrahmanemakhlouf&theme=dark" alt="abderrahmanemakhlouf" /></p>
   </div>
 
-
-💡 *“Technology is best when it brings people together.” – Matt Mullenweg*  
+💡 *“Technology is best when it brings people together.” – Matt Mullenweg*
